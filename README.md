@@ -1,8 +1,8 @@
 # GyphyTest
 
-# MVVM, CollectionView, SDWebImage
+ MVVM, CollectionView, SDWebImage
 
-#TODO: 
+# TODO: 
 - Добавить экран поиска
 - Рефакторинг апи сервиса для работы со всеми типа запросов
 - Апи сервис перевести на async/await
